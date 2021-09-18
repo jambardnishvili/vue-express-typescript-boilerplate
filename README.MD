@@ -1,4 +1,4 @@
-#Install
+# Install
 
 1. `git clone https://github.com/jambardnishvili/vue-express-typescript-boilerplate`  
 2. `cd client && yarn install`
