@@ -8,7 +8,7 @@
 ## Development setup
 
 1. `cd client && yarn serve`
-2. `cd server && yarn serve`
+2. `cd server && yarn dev`
 
 ## Production build
 
