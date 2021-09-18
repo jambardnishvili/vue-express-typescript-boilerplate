@@ -1,0 +1,1 @@
+{"version":3,"file":"hello.js","sourceRoot":"","sources":["../../../src/web/routes/hello.ts"],"names":[],"mappings":";;AAAA,mCAAkC;AAElC,MAAM,MAAM,GAAG,OAAO,CAAC,MAAM,EAAE,CAAA;AAE/B,MAAM,CAAC,GAAG,CAAC,GAAG,EAAE,CAAC,GAAG,EAAE,GAAG,EAAE,EAAE;IAC3B,GAAG,CAAC,IAAI,CAAC;QACP,OAAO,EAAE,QAAQ;KAClB,CAAC,CAAA;AACJ,CAAC,CAAC,CAAA;AAEF,kBAAe,MAAM,CAAA"}
